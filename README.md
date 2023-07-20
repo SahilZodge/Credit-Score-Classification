@@ -1,2 +1,2 @@
 # Credit-Score-Classification
-#Credit Score Preprocessing and Prediction#
+Credit Score Preprocessing and Prediction
